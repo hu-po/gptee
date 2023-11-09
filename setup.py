@@ -13,6 +13,7 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
+    maintainer='hu-po',
     entry_points={
         'console_scripts': [
             'gptee = gptee.gptee:main'

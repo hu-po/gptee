@@ -3,6 +3,7 @@
 <package format="3">
   <name>gptee</name>
   <version>0.0.1</version>
+  <maintainer email="foo@gmail.com">hu-po</maintainer>
   <description>Uses GPT4Vision, TTS, and STT APIs with camera</description>
   <license>MIT</license>
 
